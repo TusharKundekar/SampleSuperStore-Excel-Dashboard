@@ -48,5 +48,4 @@ Business Impact & Insights
 
 6.Screenshots/Demos
 ![Alt_text](https://github.com/username/repo/assets/image.png)
-![Dashboard Preview](https://github.com/TusharKundekar/SampleSuperStore-Excel-Dashboard/blob/main/Dashboard%20Snapshot.jpg)
-![Dashboard Preview](https://github.com/TusharKundekar/SampleSuperStore-Excel-Dashboard/blob/main/Dashboard%20Demo.mp4)
+![Dashboard Preview](https://github.com/TusharKundekar/SampleSuperStore-Excel-Dashboard/blob/main/Dashboard%20Snapshot.jpg)(https://github.com/TusharKundekar/SampleSuperStore-Excel-Dashboard/blob/main/Dashboard%20Demo.mp4)
