@@ -48,4 +48,4 @@ Business Impact & Insights
 
 6.Screenshots/Demos
 ![Alt_text](https://github.com/username/repo/assets/image.png)
-![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+![Dashboard Preview](https://github.com/TusharKundekar/SampleSuperStore-Excel-Dashboard/blob/main/Dashboard%20Snapshot.jpg)
